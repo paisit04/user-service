@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Services;
+namespace Services;
 
 use Symfony\Component\HttpKernel\Exception\HttpException;
 
